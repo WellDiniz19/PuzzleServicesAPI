@@ -1,0 +1,23 @@
+{
+  "name": "apipuzzleservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WellDiniz19/PuzzleServicesAPI.git"
+  },
+  "keywords": [],
+  "author": "Wellington Diniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WellDiniz19/PuzzleServicesAPI/issues"
+  },
+  "homepage": "https://github.com/WellDiniz19/PuzzleServicesAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
